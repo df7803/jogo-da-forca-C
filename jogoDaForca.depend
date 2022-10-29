@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1666999915 source:c:\users\daniel\onedrive\documentos\analise de sistema\linguagem de programação e estr de dados\programas em c\jogodaforca\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
